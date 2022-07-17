@@ -1,0 +1,52 @@
+.logo {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.h1 {
+    font-size: 10px;
+}
+
+.search {
+    width: 1370px;
+    height: 80px;
+    text-align: center;
+    background-color: #dddddd;
+    margin-left: 20px;
+
+
+}
+
+.search1 {
+    padding-top: 5px;
+
+}
+
+input {
+    width: 400px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}
+
+.grid-item {
+    background-color: rgba(4, 255, 234, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    margin: 5px;
+
+}
+
+button {
+    width: 100px;
+    height: 20px;
+}
+
+.p3 {
+    text-align: center;
+}
